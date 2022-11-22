@@ -15,10 +15,10 @@
 <p align="left">
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h3  style="width:60%"; align='start'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
+<h3  width="600" align='start'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
 
 <img height="250px" align="right" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif"/>
-Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.
+
 - 🌱 Aspiring MERN Developer
 - 👯 I’m looking to collaborate on  <a href="https://www.linkedin.com/in/iesparag/" /> Linkedin </a>   
 - 🤔 I’m looking for help with developing AI skills ..
