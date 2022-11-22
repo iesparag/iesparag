@@ -12,7 +12,7 @@
 
 
 
-<p align="left">
+<p width="70%" align="left">
 
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4   align='start'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
@@ -28,7 +28,7 @@
    <br>
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h3  align='left'>Languages and Tools:</h3>
 <p  style={padding:30px}> 
