@@ -17,7 +17,7 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4   align='start'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
 
-<img height="250px" width="object-fit" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpP6pEcEvznGfZOpd_xd2oDKbcx9NPxhSz1G04QoSJhnZ-G0FaTa6Nbns0yzOcORfmV_k&usqp=CAU"/>
+<img height="250px"  align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpP6pEcEvznGfZOpd_xd2oDKbcx9NPxhSz1G04QoSJhnZ-G0FaTa6Nbns0yzOcORfmV_k&usqp=CAU"/>
 
 - 🌱 Aspiring MERN Developer
 - 👯 I’m looking to collaborate on  <a href="https://www.linkedin.com/in/iesparag/" /> Linkedin </a>   
