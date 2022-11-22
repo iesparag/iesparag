@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iesparag&label=Profile%20views&color=0e75b6&style=flat" alt="iesparag" /> </p>
- <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" align="center" >
+ <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" align="center"height="60% >
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="#" target="_blank" rel="noopener noreferrer">Parag Jain</a> <img src="https://i.gifer.com/CVyf.gif" width="28px" >
