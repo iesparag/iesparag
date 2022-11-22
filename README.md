@@ -3,7 +3,7 @@
 
 <h2 >
   <!-- Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%40am%40PARAG%40JAIN;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20PARAG%20JAIN;&center=true&width=500&height=50">
 
 </h2>
 
