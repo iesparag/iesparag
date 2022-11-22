@@ -30,6 +30,7 @@
 
 <br><br><br><br><br><br>
 
+<p>
 <h3  align='left'>Languages and Tools:</h3>
 <p  style={padding:30px}> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -40,6 +41,7 @@
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="react" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
+</p>
 </p>
 <!-- ------------------------------location--------------- -->
 
