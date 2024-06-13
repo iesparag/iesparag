@@ -1,7 +1,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=iesparag&label=Profile%20views&color=0e75b6&style=flat" alt="iesparag" /> 
 </p>
-<img src="https://images.playground.com/8c0af443f9f14c1390fb7e31fc81f12e.jpeg" align="center" height="auto" width="100%" />
+<img src="https://images.playground.com/24dd4f3e5687494daa1941b03db64323.jpeg" align="center" height="auto" width="100%" />
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="#" target="_blank" rel="noopener noreferrer">Parag Jain</a> <img src="https://i.gifer.com/CVyf.gif" width="28px" >
